@@ -5,6 +5,7 @@ SEOTitle: Aimona工作室官方网站
 kramdown:
   input: GFM
 
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 members: [
   {
