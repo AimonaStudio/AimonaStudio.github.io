@@ -1,6 +1,7 @@
 title: AimonaStudio
 SEOTitle: Aimona工作室官方网站
-
+email: "himself6565@gmail.com"
+baseurl: ""
 
 kramdown:
   input: GFM
