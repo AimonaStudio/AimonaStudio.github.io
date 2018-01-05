@@ -8,6 +8,9 @@ kramdown:
 
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
 members: [
   {
     title: "排长的Blog",
