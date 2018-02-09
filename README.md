@@ -1,22 +1,15 @@
-# 关于AimonaStudio  
+# Jekyll Modern Blog Alternative Version
 
-一个兴趣爱好组成的工作室  
+A Simple, Clean and responsive modern blog for jekyll.
 
----  
+forked version of [inded/modern-theme](https://github.com/inded/Jekyll_modern-blog)
 
-# 在开发项目 
-「BioArmy」 —— 生化部队，2D类横版游戏  
+## Attributions
+Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
+Using Sample images from [Fancy Crave](http://fancycrave.com/)
 
----
-# 成员  
+## License
 
-截止至2018-01-02
-- NUMIE —— 画师 [Pixiv](https://pixiv.me/1374234516)  
-- Paizhang —— 策划、程序 [个人网站](http://paizhang.info)  
-- Himself65 —— 程序 [个人网站](http://himself65.com)  
+Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
 
----  
-
-# 联系我们  
-
-himself6565@gmail.com  
+Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).

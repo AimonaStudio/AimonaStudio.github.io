@@ -1,29 +1,10 @@
+# Site settings
 title: AimonaStudio
-SEOTitle: Aimona工作室官方网站
-email: "himself6565@gmail.com"
-baseurl: ""
-
-kramdown:
-  input: GFM
-
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-chrome-tab-theme-color: "#000000"
-service-worker: true
-
-members: [
-  {
-    title: "排长的Blog",
-    href: "http://paizhang.info/"
-  },
-    
-  {
-    title: "妮妙的Pixiv",
-    href: "https://www.pixiv.net/member_illust.php?id=11619949"
-  },
-
-  {
-    title: "Himself65的Blog",
-    href: "http://himself65.com/"
-  }
-]
+description: Welcome to Aimona
+keywords: Aimona, Game
+author: Himself65
+baseurl: "/"
+url: "https://aimonastudio.github.io/" 
+gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
+paginate: 3
+google_analytics: 'UA-XXXXXXX-X'
